@@ -2,10 +2,9 @@
   "name": "@nnapp/core",
   "version": "0.1.0-alpha.4",
   "main": "index.js",
-  "private": false,
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "gitHead": "5d7c37632ebe07e32df58cc28094dbb986440929"
+  "gitHead": "beabf2a0663c37ec514bc91b455b08c9d47fbaed"
 }
