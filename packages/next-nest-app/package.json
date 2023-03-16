@@ -3,8 +3,11 @@
   "version": "0.1.0-alpha.5",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "gitHead": "beabf2a0663c37ec514bc91b455b08c9d47fbaed"
+  "gitHead": "b923a5c67ab8b223194cdc47aa76bc08c1aa5d42"
 }
