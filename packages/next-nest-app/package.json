@@ -1,5 +1,5 @@
 {
-  "name": "@nnapp/core",
+  "name": "@app-nn/core",
   "version": "0.1.0-alpha.6",
   "main": "index.js",
   "license": "MIT",
@@ -9,5 +9,5 @@
   "devDependencies": {
     "typescript": "^4.9.5"
   },
-  "gitHead": "f951e352812f91aec5115aabe8e39211261c41fe"
+  "gitHead": "218ff445f87737f79f48acf28e7f0a872eda5fd0"
 }
