@@ -1,6 +1,6 @@
 {
   "name": "@nnapp/core",
-  "version": "0.1.0-alpha.3",
+  "version": "0.1.0-alpha.4",
   "main": "index.js",
   "private": false,
   "license": "MIT",
